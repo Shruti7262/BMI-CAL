@@ -12,6 +12,8 @@ background-size: cover;
 </style>
 """
 
+base="light"
+
 st.markdown(page_bg_img, unsafe_allow_html=True)
 
 
