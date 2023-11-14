@@ -15,7 +15,7 @@ background-size: cover;
 st.markdown(page_bg_img, unsafe_allow_html=True)
 
 
-st.title(":blue[BMI Calculator]")
+st.title("BMI Calculator")
 
 stat = st.radio("Select your Weight format: ", ("kgs", "pounds", "ounce"))
 
